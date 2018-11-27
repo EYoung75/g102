@@ -5,9 +5,3 @@ module.exports = {
           return database('students')
     }
   }
-
-  function listSome(){
-      return database("selected")
-  }
-
-  module.export listSome
