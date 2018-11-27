@@ -14,7 +14,7 @@ exports.seed = function(knex, Promise) {
           useless_superpower: "Can spawn a single ant"
       },
       {
-        name: "Ben",
+        name: "Ben Rumsey",
         fave_animal: 'https://kids.nationalgeographic.com/content/dam/kids/photos/animals/Mammals/A-G/cheetah-running.adapt.945.1.jpg',
         previous_occupation: "Sales Associate",
         hometown_lat: 39.7392,
@@ -38,7 +38,7 @@ exports.seed = function(knex, Promise) {
         useless_superpower: 'always 5 minutes late'
       },
       {
-        name: 'Jess',
+        name: 'Jess Markgraf',
         fave_animal: 'https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2018/03/baby_platypuses.jpg?itok=KL69Np6v&fc=50,50',
         previous_occupation: 'Wellsite Geologist',
         hometown_lat: 32.768799,
@@ -46,7 +46,7 @@ exports.seed = function(knex, Promise) {
         useless_superpower: 'can walk real slow'
       },
       {
-        name: "Meredith",
+        name: "Meredith Fontana",
         fave_animal: 'https://photos.app.goo.gl/pVpPAWQSEb8arWpH7',
         previous_occupation: 'Paleontologist',
         hometown_lat: 29.7604,
@@ -62,7 +62,7 @@ exports.seed = function(knex, Promise) {
         useless_superpower: 'Able to get any snack from the snack tree'
       },
       {
-        name: "Kate",
+        name: "Kate Schaefer",
         fave_animal: "https://images.pexels.com/photos/53001/cougar-mountain-lion-puma-concolor-big-cat-53001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         previous_occupation: "Event Manager",
         hometown_lat: 35.0844,
@@ -70,7 +70,7 @@ exports.seed = function(knex, Promise) {
         useless_superpower: "Can read the minds of houseflies"
       },
       {
-        name: 'Trey',
+        name: 'Trey Young',
         fave_animal: 'https://images-na.ssl-images-amazon.com/images/I/61irQrNjgnL._SY679_.jpg',
         previous_occupation: 'General Manager',
         hometown_lat: 37.2638,
@@ -86,7 +86,7 @@ exports.seed = function(knex, Promise) {
         useless_superpower: 'Being able to remember the 57th word of every song heard.'
       },
       {
-        name: "Sonja",
+        name: "Sonja Chacon",
         fave_animal: "https://i0.wp.com/www.wagpets.com/wp-content/uploads/2017/11/the-pug-rose-ears.jpeg?w=960&ssl=1",
         previous_occupation: "Marketing Manager",
         hometown_lat: 36.407249,
@@ -94,7 +94,7 @@ exports.seed = function(knex, Promise) {
         useless_superpower: "can understand the inner workings of butter"
       },
       {
-        name: "Beef", 
+        name: "Beef Mitch", 
         fave_animal: "https://palsawa.com/img/Jukcg.jpg",
         previous_occupation: "Rock Climbing Instructor",
         hometown_lat: 45.0586,
@@ -142,7 +142,7 @@ exports.seed = function(knex, Promise) {
         useless_superpower: 'Sub-par speling'
       },
       {
-        name: "Jimmy",
+        name: "Jimmy Liang",
             fave_animal: "https://www.zoonewengland.org/media/72328/peregrinefalcon_gallery.jpg",
             previous_occupation: "Customer Service Representative",
             hometown_lat: 38.6270,
@@ -158,7 +158,7 @@ exports.seed = function(knex, Promise) {
         useless_superpower: 'Ability to resist the urges of the snack tray, during presentations'
       },
       {
-        name: "Charity",
+        name: "Charity Van Buren",
         fave_animal: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bradypus.jpg/1024px-Bradypus.jpg",
         previous_occupation: "homemaker",
         hometown_lat: 40.5853,
