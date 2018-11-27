@@ -3,12 +3,12 @@
 module.exports = {
 
   development: {
-    client: 'sqlite3',
+    client: 'pg',
     connection: "postgresql://localhost/g102_student_db"
   },
 
   production: {
-    client: 'postgresql',
+    client: 'pg',
     connection: process.env.DATABASE_URL
   }
 
