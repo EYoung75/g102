@@ -12,7 +12,7 @@ app.use(cors());
 app.listen(port)
 
 app.get("/", (req, res) => {
-    queries.listAll().then(students => res.send(students[0]))
+    queries.listAll().then(students => res.send(students))
 })
 
 app.post("/", (req, res) => {
