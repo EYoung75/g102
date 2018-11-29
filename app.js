@@ -22,3 +22,11 @@ app.post("/", (req, res) => {
 app.get("/:id", (req, res) => {
     queries.getById(req.params.id).then(student => res.send(student[0]))
 }) 
+
+app.put("/:id", (req, res) => {
+    queries.updateStudent(req.params.id, req.body).then(students => res.json(students))
+})
+
+app.delete("/:id", (req, res) => {
+    queries.daleteStudent(req.params.id).then(res.status(204))
+})
