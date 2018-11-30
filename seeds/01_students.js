@@ -104,7 +104,7 @@ exports.seed = function(knex, Promise) {
       {
         name: "DeBronis Warren",
         fave_animal: "https://cdn.images.express.co.uk/img/dynamic/galleries/x701/156708.jpg",
-        previous_occupation: "Militar",
+        previous_occupation: "Military",
         hometown_lat: 39.9526,
         hometown_long: 75.1652,
         useless_superpower: "Can give off heat rays only when it's sunny and hot"
@@ -134,7 +134,7 @@ exports.seed = function(knex, Promise) {
         useless_superpower: 'Can telekinetically move rubbage, but only between two trash recepticles.'
       },
       {
-        name: 'Sir. Phiillip Hengemuhle the First',
+        name: 'Sir. Phillip Hengemuhle the First',
         fave_animal: 'http://infoweasels.com/whatcat.jpg',
         previous_occupation: 'Dancer',
         hometown_lat: 40.0150,

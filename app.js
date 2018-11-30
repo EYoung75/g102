@@ -28,5 +28,5 @@ app.put("/:id", (req, res) => {
 })
 
 app.delete("/:id", (req, res) => {
-    queries.daleteStudent(req.params.id).then(res.status(204))
+    queries.deleteStudent(req.params.id).then(res.status(204))
 })
